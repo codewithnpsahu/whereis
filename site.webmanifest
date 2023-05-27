@@ -1,23 +1,47 @@
-   {
+{
     "name": "Money Mitan",
     "short_name": "MoneyMitan",
-    "icons": [
-        {
-            "src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "start_url": "https://www.moneymitan.tech",
     "display": "standalone",
-    "prefer_related_applications": false,
-  "start_url": "https://www.moneymitan.tech"
-}
+    "background_color": "#fff",
+    "description": "Finance.",
+    "icons": [
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "168x168",
+        "type": "image/png"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg370Ci9membKOnUbLUzty-G_URERvZyYTdemip75hK-eVjYdLDtynIHZjZruTwtWOQF1s1-d8ZNEgV8day3MJAfPtWIC2HbTPscf_1IawDDaOogFG_uWwW2ibdUf3pA2r8i6ZsZCFcZROEbDjd-60nWfNM1cnnKaVOzMcCjg3ieO_S8zEFo605-kdr/s1600/Moneymitan%2032x32.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "related_applications": [
+      {
+        "platform": "MoneyMitan",
+        "url": "https://www.moneymitan.tech"
+      }
+    ]
+  }
+  
